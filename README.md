@@ -1,2 +1,5 @@
 # yixuanAutoRecord
-如果公司网页版打卡,并且需要绑定本公司IP,可用
+该脚本适用于,需绑定公司IP、网页版打卡；
+大体思路
+1、schedule定时发送任务
+2、nightmare模拟触发页面
