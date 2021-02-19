@@ -1,7 +1,7 @@
 {
   "name": "jd",
   "version": "1.0.0",
-  "description": "京东抢购流程",
+  "description": "公司绑IP定时自动打卡小脚本",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
